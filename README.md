@@ -14,3 +14,4 @@ Link Dashboard : https://lookerstudio.google.com/reporting/2cc265db-572e-4261-b4
 4.  Detail of data patient
 5.  Entry Exit Chart
 6.  Recovered, Deceased and Active patients chart
+7.  The data source is from google sheet with 15 minutes update automatically.
